@@ -1,0 +1,10 @@
+index,align,icon,name,href,visibleOn
+1,top,LogIn,Login,/auth/login,!auth
+2,top,User,Profile,/profile,auth
+3,top,Table,Dashboard,/dashboard,auth
+1,middle,Handshake,Mentors,/m,all
+2,middle,Volleyball,Important Info,/p/important-info,all
+3,middle,BookCheck,Solved Assignments,/shop,all
+1,bottom,Crown,Subscription,/profile,subscription
+2,bottom,Gem,IGNOUMate+,/pricing,!subscription
+3,bottom,Info,About Us,/about,all

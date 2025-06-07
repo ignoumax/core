@@ -1,0 +1,7 @@
+name,href,icon,bgColor
+Examination Form,https://exam.ignou.ac.in,Check,teal
+Assignment Question Papers,https://assignments.ignou.ac.in,Paper,magenta
+Re-registration,https://reregistration.ignou.ac.in,Table,coral
+Admission Status,,RotateCw,red
+Shop,/shop,ShoppingCart,green
+Follow us,/about,ArrowRight,blue
