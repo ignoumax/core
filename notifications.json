@@ -1,0 +1,49 @@
+[
+  {
+    "date": "2025-09-01",
+    "tag": "TEE December 2025",
+    "title": "Assignments Submission Started",
+    "desc": "Students giving term end exams in december 2025 can submit their assignments to their respective study centres, last date is 30th S...",
+    "redirect_url": "/posts/ignou-assignment-submission-december-2025"
+  },
+  {
+    "date": "2025-09-01",
+    "tag": "Re-registration July 2025",
+    "title": "Last date extended",
+    "desc": "The last date for Re-registration in July 2025 session has been extended upto 15th September 2025, Best practices to keep in mind...",
+    "redirect_alt": "Stepwise re-registration",
+    "redirect_url": "/posts/ignou-reregistration-july-2025"
+  },
+  {
+    "date": "2025-08-27",
+    "tag": "TEE June 2025",
+    "title": "TEE Marks Updated",
+    "desc": "Marks of students who appeared in term end exams in june 2025 is updated",
+    "redirect_alt": "View results",
+    "redirect_url": "/dashboard/tee?mmyy=0625"
+  },
+  {
+    "date": "2025-08-19",
+    "tag": "TEE December 2025",
+    "title": "Datesheet released (tentative)",
+    "desc": "Students giving term end exams in december 2025 can see the datesheet of their respective course exams",
+    "redirect_alt": "Download datesheet",
+    "redirect_url": "/posts/ignou-tee-datesheet-december-2025"
+  },
+  {
+    "date": "2025-08-15",
+    "tag": "Re-registration July 2025",
+    "title": "Last date extended",
+    "desc": "The last date for Re-registration in July 2025 session has been extended upto 31st August 2025, Best practices to keep in mind...",
+    "redirect_alt": "Stepwise re-registration",
+    "redirect_url": "/posts/ignou-reregistration-july-2025"
+  },
+  {
+    "date": "2025-08-11",
+    "tag": "TEE June 2025",
+    "title": "TEE Marks Updated",
+    "desc": "Marks of students who appeared in term end exams in june 2025 is updated",
+    "redirect_alt": "View results",
+    "redirect_url": "/dashboard/tee?mmyy=0625"
+  }
+]
